@@ -1,3 +1,4 @@
+import "../styles/repositories.scss";
 import { RepositoryItem } from "./RepositoryItem";
 
 export function RepositoryList() {
